@@ -7,4 +7,4 @@ Mirror-Bootstrap: http://ftp.debian.org/debian/
 [FIXME]
 Configuration-Version: 4.0.3
 Name: live-image
-Type: iso-hybrid
+Type: netboot

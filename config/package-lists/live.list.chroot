@@ -3,3 +3,6 @@ live-config
 live-config-systemd
 smartmontools
 memtester
+lshw
+console-setup
+
