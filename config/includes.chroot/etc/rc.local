@@ -12,14 +12,9 @@
 # By default this script does nothing.
 
 #execute scripts upon startup!
-echo "vor sleep.." >> /home/user/scripting/logfile.txt
 /bin/sleep 5
 
-echo "nach sleep.." >> /home/user/scripting/logfile.txt
-
 sh /home/user/scripting/werte.sh
-
-echo "nach werte.sh" >> /home/user/scripting/logfile.txt
 
 exit 0
 
